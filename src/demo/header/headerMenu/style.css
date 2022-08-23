@@ -1,0 +1,10 @@
+ul{
+    list-style: none;
+}
+ul.menu{
+    display:flex;
+    gap:30px;
+}
+ul li{
+    font-size:13px;
+}

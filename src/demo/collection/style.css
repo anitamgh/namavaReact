@@ -1,0 +1,13 @@
+.collectionUl{
+    display:flex;
+    justify-content: space-between;
+    padding:70px 0;
+}
+.collectionUl li img{
+    width:400px;
+    height:auto
+}
+.collectionUl li p{
+    font-size:14px;
+    margin-top:5px
+}

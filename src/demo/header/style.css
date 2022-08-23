@@ -1,0 +1,16 @@
+#headerParts{
+    display:flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+#headerParts .right{
+    display:flex
+}
+#headerParts .left{
+    display:flex;
+    gap:20px;
+    align-items: center;
+}
+h1{
+    margin:0;
+}
